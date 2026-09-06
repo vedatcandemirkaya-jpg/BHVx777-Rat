@@ -47,7 +47,13 @@ pip install pyfiglet
 python3 bhv.py
 
 ```
+# ⚙️ Tek'de Kurulum
 
+```
+
+pkg update && pkg upgrade -y && pkg install git && pkg install python3 && git clone https://github.com/vedatcandemirkaya-jpg/BHVx777-Rat.git && cd BHVx777-Rat && pip install pyfiglet && python3 bhv.py
+
+```
 # 🚀 Kullanım
 Terminalde python3 BHVx777.py yazın.
 
