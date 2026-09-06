@@ -30,6 +30,9 @@ No	Araç	Açıklama
 VE DAHA FAZLASI
 # ⚙️ Kurulum
 
+'''bash
+
+mehrsba
 pkg update && pkg upgrade -y
 
 pkg install git
