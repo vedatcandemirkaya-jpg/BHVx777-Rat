@@ -30,9 +30,8 @@ No	Araç	Açıklama
 VE DAHA FAZLASI
 # ⚙️ Kurulum
 
-'''bash
+```bash
 
-mehrsba
 pkg update && pkg upgrade -y
 
 pkg install git
@@ -47,6 +46,7 @@ pip install pyfiglet
 
 python3 bhv.py
 
+```
 
 # 🚀 Kullanım
 Terminalde python3 BHVx777.py yazın.
