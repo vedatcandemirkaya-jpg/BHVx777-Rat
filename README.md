@@ -4,7 +4,7 @@ BHVx777, Termux üzerinde çalışan, 12 farklı Android RAT aracını tek bir m
 
 **📕Termux için kodlanmış bir tool ve renkli bir kullanıcı aracı**
 
-> 'BHVx777-Rat' - tool güncellemeler alacak ara sıra
+> 'BHVx777-Rat' - tool güncellemeler alacak
 
 ---
 
