@@ -61,7 +61,7 @@ pkg update && pkg upgrade -y && pkg install git && pkg install python3 && git cl
 
 ```
 # 🚀 Kullanım
-Terminalde python3 BHVx777.py yazın.
+Terminalde python3 bhv.py yazın.
 
 Menüden istediğiniz RAT aracının numarasını girin.
 
@@ -72,7 +72,7 @@ Kurulum tamamlandığında Enter ile menüye dönebilirsiniz.
 Çıkış için 99 tuşlayın.
 
 # ⚠️ Uyarı
-Bu araç yalnızca eğitim ve yetkili güvenlik testleri içindir. Yetkisiz kullanım yasa dışıdır ve tüm sorumluluk kullanıcıya aittir.
+**Bu araç yalnızca eğitim ve yetkili güvenlik testleri içindir. Yetkisiz kullanım yasa dışıdır ve tüm sorumluluk kullanıcıya aittir.**
 
 # 🧑‍💻 Geliştirici
 VHG
